@@ -1,0 +1,9 @@
+ropandi\apps\email\sender\publisher\TestPublisher$1.class
+ropandi\apps\email\sender\transformer\TestRequestMapper.class
+ropandi\apps\email\sender\controller\TestController.class
+ropandi\apps\email\sender\publisher\EmailPublisher.class
+ropandi\apps\email\sender\service\EmailService.class
+ropandi\apps\email\sender\service\TestService.class
+ropandi\apps\email\sender\request\TestRequest$TestRequestBuilder.class
+ropandi\apps\email\sender\publisher\TestPublisher.class
+ropandi\apps\email\sender\request\TestRequest.class

@@ -1,0 +1,8 @@
+{"namespace": "ropandi.apps.model.test.avro",
+  "type": "record",
+  "name": "TestAvroModel",
+  "fields": [
+    {"name": "id", "type": "long"},
+    {"name": "cc", "type": ["null", "string"]}
+  ]
+}
